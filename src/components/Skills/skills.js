@@ -18,11 +18,11 @@ const Skills = () => {
       <span className='languagesTitle'>Languages</span>
       <div className='languagesList'>
         <div className='language'>
-          <img src={USA_flag} alt=""></img>
+          <img src={USA_flag}></img>
           <h2>English (B1)</h2>
         </div>
         <div className='language'>
-          <img src={Ukrainian_flag} alt=""></img>
+          <img src={Ukrainian_flag}></img>
           <h2>Ukrainian (Native)</h2>
         </div>
       </div>
