@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-websuite/static/css/main.5ce03a12.css",
+    "main.js": "/my-websuite/static/js/main.2de66553.js",
+    "static/media/USA_flag.jpg": "/my-websuite/static/media/USA_flag.56af3c704a8def0c99b9.jpg",
+    "static/media/Ukrainian_flag.jpg": "/my-websuite/static/media/Ukrainian_flag.c2fa50fa23cd3d22e2bf.jpg",
+    "static/media/I-transparent.png": "/my-websuite/static/media/I-transparent.264447d06a7c1c08d975.png",
+    "static/media/contact-mail.png": "/my-websuite/static/media/contact-mail.85b72314fa30bc76799a.png",
+    "static/media/instagram.png": "/my-websuite/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/my-websuite/index.html",
+    "main.5ce03a12.css.map": "/my-websuite/static/css/main.5ce03a12.css.map",
+    "main.2de66553.js.map": "/my-websuite/static/js/main.2de66553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce03a12.css",
+    "static/js/main.2de66553.js"
+  ]
+}
